@@ -1,0 +1,24 @@
+
+.banner h1{
+    padding-top: 20%;
+    font-size: 80px;
+}
+p{
+    
+    font-size: 35px;
+}
+.text-highlight{
+    color: #ff8367;
+}
+.banner{
+    
+}
+.half-box{
+    margin-left: 2%;
+    padding-left: 5%;
+    width: 40%;
+    float: left;
+}
+.half-box img{
+    width: 70%;
+}
