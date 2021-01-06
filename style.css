@@ -18,11 +18,9 @@ body{
     text-decoration: none;    
     color: black;
   }
-  
-.navigation-bar li {
+ .navigation-bar li {
     display: inline;
   }
-
 h1{
     padding-top: 35%;
     font-size: 80px;
@@ -45,7 +43,6 @@ p{
 .text-highlight{
     color: #fd5d39;
 }
-
 .half-box{
     margin-left: 7%;
     width: 40%;
@@ -54,16 +51,14 @@ p{
 .half-box img{
     width: 100%;
 }
-
 .red-button{
     text-decoration: none;
     font-size: 25px;
     color: white;
-    background-image:linear-gradient(90deg, #ff5e00, salmon);
+    background-image:linear-gradient(270deg, #ff5e00, #f84532);
     border-radius: 10px;
     padding: 20px 60px;
 }
-
 .portfolio-banner{
     margin: 10% 0%;
     width: 100%;
@@ -86,7 +81,6 @@ h3{
     margin-left: 2.5%;
     background-color: white;
     box-shadow: 10px10px 40px black;
-
 }
 .portfolio-box img{
     width: 100%;
@@ -108,9 +102,7 @@ h4{
     background-image: url('./images/background-work.png');
     background-repeat: no-repeat;
     background-size: contain;
-   
 }
-
 .work-half-box{
     margin: 0%;
     padding: 0%;
@@ -134,7 +126,6 @@ h4{
     background-image: linear-gradient(45deg, #eeebeb, #f3f3f3);
     box-shadow: 10px 10px 40px gray;
 }
-
 .blog h3{
     font-size: 90px;
     margin: 0% 0%;
@@ -142,7 +133,6 @@ h4{
 }
 .blog p{
     font-size: 20px;
-
 }
 .blog-box{
     width: 25%;
@@ -151,8 +141,6 @@ h4{
     padding: 2%;
     border-radius: 10px;
     background-color: white;
-    
-
 }
 #odd-box-left-border{
     border-left: 7px solid;
@@ -186,7 +174,6 @@ h4{
     margin: 0%;
     padding: 0%;
     color: #353434;
-    
 }
 .media-bar{
     width: 10%;
